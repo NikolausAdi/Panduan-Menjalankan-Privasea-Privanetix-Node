@@ -4,7 +4,7 @@ Sebelum memulai, pastikan VPS atau komputer Anda memenuhi persyaratan berikut:
 - Sistem Operasi: Ubuntu (Direkomendasikan)
 - Arsitektur CPU: amd64 (x86)
 - Penyimpanan: Minimal 100GB ruang kosong
-- RAM: 8GB
+- RAM: 4GB
 - Prosesor: 6 core
 
 ## **Langkah 1: Instalasi Docker**
